@@ -1,0 +1,27 @@
+body{
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+}
+
+h1{
+    transition: 3s;
+    font-size: 50pt;
+    
+}
+
+div#foto{
+    margin-top: 50px;
+    transition: 3s;
+    
+}
+
+div#msg{
+    margin-top: 50px;
+    transition: 3s;
+    font-size: 30pt;
+    background-color: white;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10pt;    
+
+}
